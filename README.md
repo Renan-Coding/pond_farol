@@ -20,7 +20,7 @@ Para a montagem física, utilizei uma protoboard, três LEDs (vermelho, amarelo 
 | LED        | Verde                  | 1          |
 | Resistor   | 1 kΩ (marrom, preto, vermelho) | 3      |
 | Protoboard | Padrão                      | 1          |
-| Jumper     | Cabos para conexão          | Vários (macho-macho e macho-fêmea)    |
+| Jumper     | Cabos para conexão          | 8 macho-macho e 5 macho-fêmea    |
 | Arduino    | Modelo Uno                  | 1          |
 | Buzzer      | Geração de ruídos sonoros                 | 1          |
 
